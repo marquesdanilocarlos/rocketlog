@@ -15,27 +15,27 @@
   "license": "ISC",
   "description": "API de entrega de encomendas",
   "dependencies": {
-    "@prisma/client": "^6.5.0",
+    "@prisma/client": "^6.7.0",
     "bcryptjs": "^3.0.2",
     "express": "^4.21.2",
     "express-async-errors": "^3.1.1",
     "jsonwebtoken": "^9.0.2",
-    "prisma": "^6.5.0",
-    "zod": "^3.24.2"
+    "prisma": "^6.7.0",
+    "zod": "^3.24.3"
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.2",
-    "@types/express": "^5.0.0",
+    "@types/express": "^5.0.1",
     "@types/jest": "^29.5.14",
     "@types/jsonwebtoken": "^9.0.9",
-    "@types/node": "^22.13.10",
+    "@types/node": "^22.15.3",
     "@types/supertest": "^6.0.3",
     "jest": "^29.7.0",
     "supertest": "^7.1.0",
     "ts-jest": "^29.3.2",
     "ts-node": "^10.9.2",
     "tsup": "^8.4.0",
-    "tsx": "^4.19.3",
-    "typescript": "^5.8.2"
+    "tsx": "^4.19.4",
+    "typescript": "^5.8.3"
   }
 }
